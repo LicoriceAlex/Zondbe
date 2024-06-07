@@ -26,7 +26,6 @@ Zondbe — это динамичный шутер с видом сверху, в
 ![Gameplay Screenshot](readme_img/gameplay.png)
 
 ## Как начать играть
-**Скачайте последний релиз:**
    - [Скачайте игру](https://github.com/LicoriceAlex/Zondbe/releases/tag/final)
    - Распакуйте архив
 
